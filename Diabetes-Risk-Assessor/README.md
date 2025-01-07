@@ -62,7 +62,7 @@ The dataset (`diabetes_health_indicators.csv`) includes:
      ```
 
 2. **Run the Notebook**:
-   - Open and execute `DS3000.Practicum2.Group24.ipynb` using Jupyter Notebook or Google Colab.
+   - Open and execute `Diabetes_Risk_Assessor.ipynb` using Jupyter Notebook or Google Colab.
 
 3. **Analyze Results**:
    - Explore visualizations and model performance metrics to understand key predictors of diabetes risk.
